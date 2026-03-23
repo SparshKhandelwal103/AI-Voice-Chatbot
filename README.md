@@ -19,8 +19,6 @@ This project is an AI-powered voice chatbot that allows users to interact with i
 ## Architecture
 The AI Voice Chatbot follows a microservices architecture where the voice recognition, natural language processing, and response generation components are decoupled for scalability and maintainability.
 
-![Architecture Diagram](link_to_diagram)
-
 ## Setup & Installation Instructions
 1. Clone the repository:
    ```bash
