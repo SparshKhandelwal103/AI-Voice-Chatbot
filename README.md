@@ -9,13 +9,6 @@ This project is an AI-powered voice chatbot that allows users to interact with i
 - Integration with various APIs for enhanced functionalities
 - Support for multiple languages
 
-## Tech Stack
-- **Programming Language:** Python
-- **Frameworks:** Flask, TensorFlow
-- **Libraries:** SpeechRecognition, gTTS (Google Text-to-Speech), NLTK
-- **Database:** SQLite
-- **Deployment:** Docker, Heroku
-
 ## Architecture
 The AI Voice Chatbot follows a microservices architecture where the voice recognition, natural language processing, and response generation components are decoupled for scalability and maintainability.
 
